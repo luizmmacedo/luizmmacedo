@@ -1,18 +1,4 @@
-- 👋 Hi, I’m @luizmmacedo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-luizmmacedo/luizmmacedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-# 👋 Olá! Eu sou o Luiz
+ # 👋 Olá! Eu sou o Luiz
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🐍 Desenvolvedor iniciante em Python  
@@ -36,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 📫 Contato
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-macedo-4313a3256/)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luizmmacedo07@gmail.com)
